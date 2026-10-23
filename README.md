@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Geraldine
 
-<!--
-**geraldine-coastaldesigns/geraldine-coastaldesigns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a WordPress web designer and developer based in Cape Town,
+South Africa, working under Coastal Designs.
 
-Here are some ideas to get you started:
+I help businesses create responsive websites, improve existing
+WordPress sites and develop practical WooCommerce functionality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My skills
+
+- WordPress and Elementor
+- WooCommerce store setup and customisation
+- PHP, HTML and CSS
+- Custom WordPress plugins and shortcodes
+- Responsive website design
+- On-page and technical SEO
+
+## What you'll find here
+
+Selected WordPress projects, reusable code examples and
+documentation explaining how my projects work.
